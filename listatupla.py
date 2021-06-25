@@ -5,7 +5,16 @@ Created on Fri Jun 25 14:10:11 2021
 
 @author: andreavergara
 """
+"""
+Listas y Tuplas 
+Son las mismas estructuras o conjuntos de datos ordenados
+Las posiciones donde se almacenan empiezan en cero, 
+no puedo devolver los valores por indexación, puedo devolver valores 
+por su llave 
 
+En las listas se pueden modificar los datos en las tuplas no  
+
+"""
 hostenames=["R1", "R2", "R3", "R4"] 
 lista1=["Juan",5,5.7,True, 5] 
 print(type(lista1))
